@@ -1,5 +1,9 @@
 # tuning-scale-view
 
+## Summary
+ギターのチューニングで使えるスケールを可視化
+Vue.jsを使用
+
 ## Project setup
 ```
 npm install
